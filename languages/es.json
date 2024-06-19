@@ -1,0 +1,41 @@
+{
+    "profile":{
+        "rol":"Desarrollador FullStack",
+        "description": "Soy estudiante de ingenieria de sistemas cursando el año de la carrera. Me apasiona el desarrollo de software y las nuevas tecnologias. <br> Mi proposito es trabajar en un ambiente laboral muy interactivo en el que predomine la comunicacion y el respeto me gusta aprender cosas nuevas y enfrentar nuevos restos la resolución de problemas no se me da mal"  
+    },
+
+    "experience":{
+        "experience-title": "Experiensas",
+        "first-job-dates": "feb 2023 - En desarrollo",
+        "first-job-title": "Desarrollo FullStack", 
+        "first-job-description": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero dentro de la Universidad Nacional campus Nicoya",
+        "second-job-dates": "feb 2023 - En desarrollo",
+        "second-job-title": "Desarrollo FullStack", 
+        "secon-job-description": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero dentro de la Universidad Nacional campus Nicoya" 
+    },
+
+    "Hobbies":{
+            "first-title": "Pasatiempos",
+            "second-title": "Ciclismo de Montaña",
+            "hobb1-desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia libero dolor sequi hic exercitationem quaerat!"
+    },
+
+    "skills":{
+        "first-skill-title": "Front-End",
+        "first-skill-year": "Años de Experiencia",
+        "second-skill-title": "Herramientas",
+        "second-skill-year": "Años de Experiencia",
+        "third-skill-title": "Gestores BD",
+        "third-skill-year": "Años de Experiencia"
+    },
+
+    "project":{
+        "first-project-title": "Proyecto Universitario", 
+        "first-project-desc1": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero dentro de la Universidad Nacional campus ",
+        "first-project-desc2": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero ",
+        "second-project-title": "Proyecto Universitario", 
+        "second-project-desc1": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero dentro de la Universidad Nacional campus ",
+        "second-project-desc2": "Este proyecto se desarrollo en la parte del front-end con React y el back-end en laravel 10 con php 8.2.1, es un sistema informativo y administrativo para la visualizacion de un sendero "
+    }
+}
+

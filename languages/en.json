@@ -1,0 +1,41 @@
+{
+    "profile":{
+        "rol":"FullStack Developer",
+        "description": "I am a systems engineering student. studying the year of the degree. Yo passionate about software development and new technologies. <br> My purpose is to work in a work environment very interactive in which communication and respect I like to learn new things and face new things It's still problem solving. I'm not bad at"  
+    },
+
+    "experience":{
+        "experience-title": "Experiences",
+        "first-job-dates": "feb 2023 - Developing",
+        "first-job-title": "FullStack Developer", 
+        "first-job-description": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside the campus of the National University of Nicoya",
+        "second-job-dates": "feb 2023 - Developing",
+        "second-job-title": "FullStack Developer", 
+        "secon-job-description": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside the campus of the National University of Nicoya"  
+    },
+
+    "Hobbies":{
+            "first-title": "Hobbies",
+            "second-title": "Mountain bike",
+            "hobb1-desc":"Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia libero dolor sequi hic exercitationem quaerat!"
+        },
+
+    "skills":{
+        "first-skill-title": "Front-End",
+        "first-skill-year": "Years of experience",
+        "second-skill-title": "Tools",
+        "second-skill-year": "Years of experience",
+        "third-skill-title": "DB administrators",
+        "third-skill-year": "Years of experience"
+    },
+
+    "project":{
+        "first-project-title": "university project", 
+        "first-project-desc1": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside the campus of the National University ",
+        "first-project-desc2": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside ",
+        "second-project-title": "university project", 
+        "second-project-desc1": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside the campus of the National University ",
+        "second-project-desc2": "This project was developed on the front-end with React and The back-end in Laravel 10 with PHP 8.2.1 is an informational and administrative system for the visualization of a path inside "
+    }
+}
+
